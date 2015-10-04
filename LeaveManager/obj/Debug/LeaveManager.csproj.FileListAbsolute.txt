@@ -42,3 +42,47 @@ E:\Development\GIT development\LeaveManager\LeaveManager\bin\EntityFramework.xml
 E:\Development\GIT development\LeaveManager\LeaveManager\bin\BusinessTemp.Portable.pdb
 E:\Development\GIT development\LeaveManager\LeaveManager\obj\Debug\LeaveManager.dll
 E:\Development\GIT development\LeaveManager\LeaveManager\obj\Debug\LeaveManager.pdb
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\csc.exe
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\vbc.exe
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\VBCSCompiler.exe
+E:\GitHub\LeaveManager\LeaveManager\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHub\LeaveManager\LeaveManager\bin\LeaveManager.dll.config
+E:\GitHub\LeaveManager\LeaveManager\bin\LeaveManager.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\LeaveManager.pdb
+E:\GitHub\LeaveManager\LeaveManager\bin\Autofac.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\Autofac.Integration.Mvc.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\BusinessTemp.Services.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Helpers.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Mvc.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Razor.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.Deployment.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.Razor.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\EntityFramework.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\BusinessTemp.Portable.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\LinqKit.dll
+E:\GitHub\LeaveManager\LeaveManager\bin\BusinessTemp.Services.pdb
+E:\GitHub\LeaveManager\LeaveManager\bin\Autofac.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\Autofac.Integration.Mvc.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Razor.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.Deployment.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Webpages.Razor.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Helpers.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\System.Web.Mvc.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\EntityFramework.xml
+E:\GitHub\LeaveManager\LeaveManager\bin\BusinessTemp.Portable.pdb
+E:\GitHub\LeaveManager\LeaveManager\obj\Debug\LeaveManager.csprojResolveAssemblyReference.cache
+E:\GitHub\LeaveManager\LeaveManager\obj\Debug\LeaveManager.dll
+E:\GitHub\LeaveManager\LeaveManager\obj\Debug\LeaveManager.pdb

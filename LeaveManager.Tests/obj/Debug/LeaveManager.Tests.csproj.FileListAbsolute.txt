@@ -42,3 +42,47 @@ E:\Development\GIT development\LeaveManager\LeaveManager.Tests\bin\Debug\System.
 E:\Development\GIT development\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Development\GIT development\LeaveManager\LeaveManager.Tests\obj\Debug\LeaveManager.Tests.dll
 E:\Development\GIT development\LeaveManager\LeaveManager.Tests\obj\Debug\LeaveManager.Tests.pdb
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\csc.exe
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\vbc.exe
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LeaveManager.Tests.dll.config
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LeaveManager.Tests.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LeaveManager.Tests.pdb
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LeaveManager.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Autofac.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\BusinessTemp.Services.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.Mvc.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\EntityFramework.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\BusinessTemp.Portable.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LinqKit.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.Razor.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\LeaveManager.pdb
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Autofac.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\BusinessTemp.Services.pdb
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.Mvc.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\Autofac.Integration.Mvc.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\EntityFramework.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\BusinessTemp.Portable.pdb
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.Razor.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\GitHub\LeaveManager\LeaveManager.Tests\obj\Debug\LeaveManager.Tests.csprojResolveAssemblyReference.cache
+E:\GitHub\LeaveManager\LeaveManager.Tests\obj\Debug\LeaveManager.Tests.dll
+E:\GitHub\LeaveManager\LeaveManager.Tests\obj\Debug\LeaveManager.Tests.pdb
