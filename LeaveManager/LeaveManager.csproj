@@ -126,8 +126,12 @@
     <Folder Include="Views\Home\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Development Apps\LeaveCalender\LeaveCalender\BusinessTemp.Services\Business.Services.csproj">
-      <Project>{7b9b49c8-d6dc-4e42-9bda-4201e61900e6}</Project>
+    <ProjectReference Include="..\BusinessTemp.Portable\Business.Portable.csproj">
+      <Project>{7ca1c64d-451a-4562-a2f8-0a6f1bd4fd96}</Project>
+      <Name>Business.Portable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessTemp.Services\Business.Services.csproj">
+      <Project>{1efe90af-df7b-4d96-b006-e4f0e2fa636d}</Project>
       <Name>Business.Services</Name>
     </ProjectReference>
   </ItemGroup>

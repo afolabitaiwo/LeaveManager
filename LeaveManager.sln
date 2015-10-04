@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Portable", "..\..\..\Development Apps\LeaveCalender\LeaveCalender\BusinessTemp.Portable\Business.Portable.csproj", "{1227B502-6147-4A40-BBC1-7BFC4D48CE1B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Services", "..\..\..\Development Apps\LeaveCalender\LeaveCalender\BusinessTemp.Services\Business.Services.csproj", "{7B9B49C8-D6DC-4E42-9BDA-4201E61900E6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManager", "LeaveManager\LeaveManager.csproj", "{BB225FA8-5D13-4C43-8605-21364C2C94D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManager.Tests", "LeaveManager.Tests\LeaveManager.Tests.csproj", "{E949EB20-5B9B-4CDC-AA42-526E10E080E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business.Services", "Business.Services", "{9B86EE5D-4136-4566-90BF-C59BEA6E3B5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business.Portable", "Business.Portable", "{1A207494-2C8A-460A-8F53-4513A4550AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Portable", "BusinessTemp.Portable\Business.Portable.csproj", "{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Services", "BusinessTemp.Services\Business.Services.csproj", "{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,14 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1227B502-6147-4A40-BBC1-7BFC4D48CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1227B502-6147-4A40-BBC1-7BFC4D48CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1227B502-6147-4A40-BBC1-7BFC4D48CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1227B502-6147-4A40-BBC1-7BFC4D48CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B9B49C8-D6DC-4E42-9BDA-4201E61900E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B9B49C8-D6DC-4E42-9BDA-4201E61900E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B9B49C8-D6DC-4E42-9BDA-4201E61900E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B9B49C8-D6DC-4E42-9BDA-4201E61900E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BB225FA8-5D13-4C43-8605-21364C2C94D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB225FA8-5D13-4C43-8605-21364C2C94D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB225FA8-5D13-4C43-8605-21364C2C94D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,8 +29,20 @@ Global
 		{E949EB20-5B9B-4CDC-AA42-526E10E080E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E949EB20-5B9B-4CDC-AA42-526E10E080E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E949EB20-5B9B-4CDC-AA42-526E10E080E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CA1C64D-451A-4562-A2F8-0A6F1BD4FD96} = {1A207494-2C8A-460A-8F53-4513A4550AC6}
+		{1EFE90AF-DF7B-4D96-B006-E4F0E2FA636D} = {9B86EE5D-4136-4566-90BF-C59BEA6E3B5A}
 	EndGlobalSection
 EndGlobal
